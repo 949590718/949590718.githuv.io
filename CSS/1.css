@@ -1,0 +1,19 @@
+ul{
+	list-style-type: none;
+	border-bottom: solid black 1px;
+	height: 26px;
+	width: 350px:;
+}
+li{float:left;
+	border:solid black 1px;
+	margin-left: 5px;
+	background-color:red;}
+.aaa{
+	border:solid black;
+	border-top: color:white;
+	width: 400px;
+	height: 400px;
+	background-color: gray;
+	clear: left;
+	position: relative;top: -16px;
+}

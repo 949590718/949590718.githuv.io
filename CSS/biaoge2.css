@@ -1,0 +1,33 @@
+body{background: #cccccc}
+table{
+	border-collapse: separate;
+	border-spacing: 10px;
+	border:1px solid black;
+	border-collapse: collapse;
+}
+td{
+	border-collapse: separate;
+	border-spacing: 10px;
+	border:1px solid black;
+}
+
+th{background-color: green;
+border-width: 1px;
+border-collapse: collapse;}
+
+a{
+	text-decoration: none;
+	border-color: gray black black gray;
+	background-color:#ffaadd;
+	border-width: 4px;
+	border-style: solid;
+	font-size: 20px;
+	padding: 10px;
+	color: yellow;
+}
+a:hover{
+	border-color: black gray gray black;
+	background-color:pink;
+}
+.www{background-image: url(1.jpeg)}
+.aaa{background-color: yellow;}

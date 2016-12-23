@@ -1,0 +1,9 @@
+body{background-color: #cccccc; }
+.www{background-image: url(../imges/w.jpg);
+	height: 1600px;
+	width: 1900px;
+	background-position: bottom;
+	background-repeat;}
+.sss{font-size: 50px;}
+span{ border-style: solid; border-width: thin; } 
+}

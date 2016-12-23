@@ -1,0 +1,28 @@
+body{background-color: #cccccc;}
+.aa{
+	border:solid pink 30px;
+	width: 200px;
+	height: 300px;
+	padding: 20px;
+}
+.cc{
+	text-align: center;
+	width: 200px;
+	height: 300px;
+	border: solid green 2px;
+	vertical-align: middle;
+	line-height: 700px;	
+}
+.bb{border:solid #ccc321 30px;
+	width: 50;
+	height: 100px;
+	padding: 20px;}
+
+.ee{background-color: red;
+	border:solid pink 30px;
+	padding: 20px;
+	border-left: 20px;}
+}
+.ff{background-color: blue;
+	border:solid #ccc321 30px;
+	}

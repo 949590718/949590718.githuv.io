@@ -1,0 +1,49 @@
+body{
+	font:12px/1.5 microsoft
+	yaHei,tahoma,aria1,Hiragino Sans
+	GB,\\5b8b\4f53,sans-serif;
+}
+*{
+	margin:0;
+	padding: 0;
+}
+title{
+	display: none;
+}
+meta{
+	display: none;
+}
+
+
+
+element.style{
+	position: relative;
+	z-index: 30;
+	background-color: #851caf;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.grid_c1{
+	margin:0 auto;
+	width: 1190px;
+}
+div{
+	display: block;
+}
+element.style{
+	display: block;
+	width: 100%;
+	height:80px;
+	background:
+	url(../imges/j1.jpg)
+}
+a{
+	color: #666;
+	text-decoration: none;
+
+}
+a:-webkit-any-link{
+	cursor: auto;
+}

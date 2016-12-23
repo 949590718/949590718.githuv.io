@@ -1,0 +1,38 @@
+
+.d{
+	background-color:green;
+}
+.a{
+	background-color:red;
+	left: 10px;
+	top: 10px;
+	position: relative;
+}
+
+.c{
+	background-color:#ccc543;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+}
+.e{
+	background-color: yellow;
+	position: relative;
+	z-index: 10;
+}
+.f{
+	background-color: pink;
+	left: 20px;
+	top: 20px;
+	width: 2000px;
+	position: absolute;
+}
+.m{position: absolute;
+z-index: 10;}
+.w{
+	color: #cccccc;
+	position: absolute;
+	left: 10px;
+	top:70px;
+	
+}

@@ -1,0 +1,45 @@
+body{background-color: #cccccc;
+	
+}
+li{
+	color: white;
+	float: left;
+	width:100px;
+	height:40px;
+	margin:2px;
+	background:black;
+
+}
+
+ul{	
+	position: relative;
+	top: 40px;
+	left: 800px;
+	list-style:none;
+
+}
+
+.tu{
+	position:absolute;
+	top:-80px;
+	left: 500px;
+
+}
+
+
+.sss{text-decoration: none;
+	color: white;
+	}
+
+a:hover{
+	background-color: red;
+
+}
+
+.tu2{
+	position:absolute;
+	top:150px;
+	left: 450px;                                                                                                                      px;
+
+}
+

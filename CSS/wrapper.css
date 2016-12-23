@@ -1,0 +1,33 @@
+body{
+	background-color: #cccccc;
+}
+.master{
+	height: 150px;
+	width: 1200px;
+	border:1px solid green;
+}
+.nav{
+	width: 800px;
+	height: 300px;
+	border:1px solid red;
+		float: left;
+}
+.ayout{
+		border:1px solid blue;
+	float: left;
+	height: 300px;
+	width: 398px;
+
+}
+.sin{
+width: 1200px;
+height: 50px;
+border:1px solid black;
+clear: both;
+
+}
+div{
+
+	width:200; 
+	text-align:center;
+}

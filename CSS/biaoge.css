@@ -1,0 +1,15 @@
+body{background: #cccccc}
+th{background-color: green;
+border-width: 1px;
+border-collapse: collapse;}
+
+td{border:1px solid red;
+	border-collapse: collapse;
+	}
+tr{background-color: blue;
+border-collapse: collapse;}
+.a:hover{background: gold;}
+.b:hover{background: tan;}
+.c:hover{background: darkviolet;}
+.d:hover{background: yellow;}
+.e:hover{background: coral;}
